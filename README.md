@@ -1,6 +1,10 @@
 # Bierpong
 
+---
+
 # Website um Bierpong Turniere zu erstellen, Spiele zu Tracken und eine Rangliste zu erstellen
+
+---
 
 # Bierpong Turnier Regeln
 ## Organisation:
