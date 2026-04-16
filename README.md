@@ -1,7 +1,8 @@
+# Bierpong
+
+# Website um Bierpong Turniere zu erstellen, Spiele zu Tracken und eine Rangliste zu erstellen
+
 # Bierpong Turnier Regeln
-
----
-
 ## Organisation:
 
 1. **Tischhöhe:** Beide Tische gleich hoch, soweit möglich. Auf dem obersten Loch.
